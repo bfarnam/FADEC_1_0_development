@@ -1,5 +1,5 @@
 # FADEC_1_0_development
-DIY FADEC Development Files
+DIY Turbine FADEC (Full Authority Digital Engine Control) Development Files
 
 I am not the original creator of these files.  They were created by Alfonso Martínez of AlfMart CNC Garage on YouTube (https://www.youtube.com/@alfmart58)
 
